@@ -4,22 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfc2b3be-4b77-47bc-927d-f9325b2c4b1c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab2/Boolean.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/Dictionaries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/For loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/If Else.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/Lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/Operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/Sets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/Tuples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/While loops.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Lab1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="bfc2b3be-4b77-47bc-927d-f9325b2c4b1c" name="Changes" comment="lab 3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab5/RegEx.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab5/RegEx.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab6/builtin-functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/builtin-functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab6/dir-and-files.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/dir-and-files.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package.json" />
         <option value="Python Script" />
       </list>
     </option>
@@ -43,13 +33,28 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2bPDzyg2rFfO9Be2Rf9cTqxDpIv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Functions1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Functions2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RegEx.executor&quot;: &quot;Run&quot;,
     &quot;Python.Syntax.executor&quot;: &quot;Run&quot;,
+    &quot;Python.builtin-functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.date.executor&quot;: &quot;Run&quot;,
+    &quot;Python.generators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jsonn.executor&quot;: &quot;Run&quot;,
+    &quot;Python.math.executor&quot;: &quot;Run&quot;,
+    &quot;Python.maths.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
@@ -59,10 +64,15 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lab4" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -80,14 +90,48 @@
       <updated>1706108087867</updated>
       <workItem from="1706108089638" duration="3252000" />
       <workItem from="1706112048508" duration="1413000" />
-      <workItem from="1706590811472" duration="5997000" />
+      <workItem from="1706590811472" duration="6328000" />
+      <workItem from="1706781987869" duration="5438000" />
+      <workItem from="1707386346377" duration="13520000" />
+      <workItem from="1707498303220" duration="7000" />
+      <workItem from="1707931434215" duration="704000" />
+      <workItem from="1707981039631" duration="52000" />
+      <workItem from="1707990990922" duration="387000" />
+      <workItem from="1708596019652" duration="13191000" />
+      <workItem from="1709200612094" duration="5400000" />
+      <workItem from="1709542432288" duration="221000" />
     </task>
+    <task id="LOCAL-00001" summary="lab 3">
+      <option name="closed" value="true" />
+      <created>1707498113410</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707498113410</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="lab 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab 3" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PP2$generators.coverage" NAME="generators Coverage Results" MODIFIED="1708768327697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab4" />
+    <SUITE FILE_PATH="coverage/PP2$Functions2.coverage" NAME="Functions2 Coverage Results" MODIFIED="1707496474981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab3" />
     <SUITE FILE_PATH="coverage/Lab1$Syntax.coverage" NAME="Syntax Coverage Results" MODIFIED="1706109844840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PP2$date.coverage" NAME="date Coverage Results" MODIFIED="1708761927652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab4" />
+    <SUITE FILE_PATH="coverage/PP2$math.coverage" NAME="math Coverage Results" MODIFIED="1708598017002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab4" />
+    <SUITE FILE_PATH="coverage/PP2$Functions1.coverage" NAME="Functions1 Coverage Results" MODIFIED="1707495412686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab3" />
+    <SUITE FILE_PATH="coverage/PP2$Functions.coverage" NAME="Functions Coverage Results" MODIFIED="1706785029915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab3" />
+    <SUITE FILE_PATH="coverage/PP2$RegEx.coverage" NAME="RegEx Coverage Results" MODIFIED="1709119493687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab5" />
+    <SUITE FILE_PATH="coverage/PP2$builtin_functions.coverage" NAME="builtin-functions Coverage Results" MODIFIED="1709205960063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab6" />
+    <SUITE FILE_PATH="coverage/PP2$maths.coverage" NAME="maths Coverage Results" MODIFIED="1708600699535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab4" />
+    <SUITE FILE_PATH="coverage/PP2$classes.coverage" NAME="classes Coverage Results" MODIFIED="1707497881312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab3" />
+    <SUITE FILE_PATH="coverage/PP2$jsonn.coverage" NAME="jsonn Coverage Results" MODIFIED="1708769677445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab4" />
   </component>
 </project>
