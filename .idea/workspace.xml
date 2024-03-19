@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bfc2b3be-4b77-47bc-927d-f9325b2c4b1c" name="Changes" comment="lab 3">
+      <change afterPath="$PROJECT_DIR$/Lab7/Blinding Lights.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab7/Mind Over Matter.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab7/R U Mine.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab7/ball moving.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab7/clock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab7/left-hand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab7/main-clock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab7/music player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab7/right-hand.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab5/RegEx.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab5/RegEx.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab6/builtin-functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/builtin-functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab6/dir-and-files.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/dir-and-files.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,34 +46,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.Functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Functions1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Functions2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.RegEx.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Syntax.executor&quot;: &quot;Run&quot;,
-    &quot;Python.builtin-functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.classes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.date.executor&quot;: &quot;Run&quot;,
-    &quot;Python.generators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.jsonn.executor&quot;: &quot;Run&quot;,
-    &quot;Python.math.executor&quot;: &quot;Run&quot;,
-    &quot;Python.maths.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/natasha/Desktop/PP2&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.Functions.executor": "Run",
+    "Python.Functions1.executor": "Run",
+    "Python.Functions2.executor": "Run",
+    "Python.RegEx.executor": "Run",
+    "Python.Syntax.executor": "Run",
+    "Python.ball moving.executor": "Run",
+    "Python.builtin-functions.executor": "Run",
+    "Python.chek.executor": "Run",
+    "Python.classes.executor": "Run",
+    "Python.clock.executor": "Run",
+    "Python.date.executor": "Run",
+    "Python.defense.executor": "Run",
+    "Python.generators.executor": "Run",
+    "Python.jsonn.executor": "Run",
+    "Python.math.executor": "Run",
+    "Python.maths.executor": "Run",
+    "Python.music player.executor": "Run",
+    "Python.pygames.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/natasha/Desktop/PP2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Lab4" />
@@ -76,7 +88,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
       </set>
     </attachedChunks>
   </component>
@@ -99,7 +111,9 @@
       <workItem from="1707990990922" duration="387000" />
       <workItem from="1708596019652" duration="13191000" />
       <workItem from="1709200612094" duration="5400000" />
-      <workItem from="1709542432288" duration="221000" />
+      <workItem from="1709542432288" duration="4666000" />
+      <workItem from="1710767233054" duration="274000" />
+      <workItem from="1710767551120" duration="4647000" />
     </task>
     <task id="LOCAL-00001" summary="lab 3">
       <option name="closed" value="true" />
@@ -125,13 +139,19 @@
     <SUITE FILE_PATH="coverage/PP2$Functions2.coverage" NAME="Functions2 Coverage Results" MODIFIED="1707496474981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab3" />
     <SUITE FILE_PATH="coverage/Lab1$Syntax.coverage" NAME="Syntax Coverage Results" MODIFIED="1706109844840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PP2$date.coverage" NAME="date Coverage Results" MODIFIED="1708761927652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab4" />
+    <SUITE FILE_PATH="coverage/PP2$pygames.coverage" NAME="pygames Coverage Results" MODIFIED="1710770237044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab7" />
     <SUITE FILE_PATH="coverage/PP2$math.coverage" NAME="math Coverage Results" MODIFIED="1708598017002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab4" />
+    <SUITE FILE_PATH="coverage/PP2$music_player.coverage" NAME="music player Coverage Results" MODIFIED="1710868293818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab7" />
     <SUITE FILE_PATH="coverage/PP2$Functions1.coverage" NAME="Functions1 Coverage Results" MODIFIED="1707495412686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab3" />
     <SUITE FILE_PATH="coverage/PP2$Functions.coverage" NAME="Functions Coverage Results" MODIFIED="1706785029915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab3" />
+    <SUITE FILE_PATH="coverage/PP2$chek.coverage" NAME="chek Coverage Results" MODIFIED="1709621098822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab6" />
     <SUITE FILE_PATH="coverage/PP2$RegEx.coverage" NAME="RegEx Coverage Results" MODIFIED="1709119493687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab5" />
     <SUITE FILE_PATH="coverage/PP2$builtin_functions.coverage" NAME="builtin-functions Coverage Results" MODIFIED="1709205960063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab6" />
+    <SUITE FILE_PATH="coverage/PP2$defense.coverage" NAME="defense Coverage Results" MODIFIED="1709623010798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PP2$maths.coverage" NAME="maths Coverage Results" MODIFIED="1708600699535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab4" />
+    <SUITE FILE_PATH="coverage/PP2$ball_moving.coverage" NAME="ball moving Coverage Results" MODIFIED="1710868538770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab7" />
     <SUITE FILE_PATH="coverage/PP2$classes.coverage" NAME="classes Coverage Results" MODIFIED="1707497881312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab3" />
     <SUITE FILE_PATH="coverage/PP2$jsonn.coverage" NAME="jsonn Coverage Results" MODIFIED="1708769677445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab4" />
+    <SUITE FILE_PATH="coverage/PP2$clock.coverage" NAME="clock Coverage Results" MODIFIED="1710869371041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab7" />
   </component>
 </project>
